@@ -19,3 +19,9 @@ Homebrew tap for [masakiaota](https://github.com/masakiaota)'s tools and apps.
   ```console
   $ brew install --cask masakiaota/tap/honyo
   ```
+
+- **[SmoothScroll](https://github.com/masakiaota/smooth-scroll)** — Smooth scrolling for mouse wheels and trackballs on macOS:
+
+  ```console
+  $ brew install --cask masakiaota/tap/smooth-scroll
+  ```
