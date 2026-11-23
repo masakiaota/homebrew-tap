@@ -10,6 +10,7 @@ class Junban < Formula
   end
 
   test do
+    assert_match version.to_s, shell_output("#{bin}/junban --version")
     assert_match "junban run", shell_output("#{bin}/junban --help")
   end
 end
