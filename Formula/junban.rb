@@ -1,8 +1,8 @@
 class Junban < Formula
   desc "Tool for managing compute jobs on a single machine"
   homepage "https://github.com/masakiaota/junban"
-  url "https://github.com/masakiaota/junban/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "29f1a5454083e40101228da3fba26ef82e09bab6741a0cb34b61b18f7b20beaf"
+  url "https://github.com/masakiaota/junban/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "afc2538a8520d672c0d27090ecad1512e2ab7f231702bdf8914f4f5becd1428f"
   license "GPL-2.0-or-later"
 
   def install
